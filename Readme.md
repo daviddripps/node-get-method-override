@@ -27,8 +27,4 @@ Now, simply add the ```_method``` parameter to your request query as you would t
 
 ## Test
 
-GET methodOverride is tested and can be verified by running the following:
-
-``` bash
-make
-```
+Tests are coming.
