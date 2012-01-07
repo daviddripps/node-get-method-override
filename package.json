@@ -16,9 +16,5 @@
     "node": ">=0.4.0"
   },
   "dependencies": {},
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/daviddripps/node-get-method-override.git"
-  }
+  "devDependencies": {}
 }
