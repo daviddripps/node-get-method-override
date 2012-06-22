@@ -27,4 +27,8 @@ Now, simply add the ```_method``` parameter to your request query as you would t
 
 ## Test
 
-To run the tests, simply cd to the node-get-method-override directory and type ```make test```
+To run the tests, simply cd to the node-get-method-override directory and type the following
+```
+npm install -d
+make test
+```
