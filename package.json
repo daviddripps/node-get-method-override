@@ -2,7 +2,7 @@
   "author": "David Dripps <david.dripps@gmail.com> (http://www.daviddripps.com)",
   "name": "get-methodoverride",
   "description": "similar to the methodOverride in Express except it overrides GET requests as well. This is useful when creating services that interact with your API via JSONP requests",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "homepage": "http://www.daviddripps.com/projects/node-get-method-override",
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
     "node": ">=0.4.0"
   },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "mocha":  "1.2.x",
+    "should": "0.6.x"
+  }
 }
