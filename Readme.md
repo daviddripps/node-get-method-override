@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/daviddripps/node-get-method-override.png)](http://travis-ci.org/daviddripps/node-get-method-override)
 # GET methodOverride
 
 A method override similar to express.methodOverride, but for GET requests instead of POST requests.  This is incredibly useful when building client-side widgets that must interact with your API via XHR and JSONP requests.
